@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
+  <diagram name="1 oldal" id="qN5Ej40m82C3z09B7pZA">
+    <mxGraphModel dx="2074" dy="1180" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9y-uePSDsWuMKe1jSldw-1" value="thread-1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9y-uePSDsWuMKe1jSldw-2" value="thread-2" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="80" y="280" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9y-uePSDsWuMKe1jSldw-3" value="thread-3" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="80" y="360" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9y-uePSDsWuMKe1jSldw-4" value="ThreadLocal" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=28;" vertex="1" parent="1">
+          <mxGeometry x="270" y="150" width="170" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="9y-uePSDsWuMKe1jSldw-5" value="0d0c83e0-e8eb-4396-905a-6568bb9b6993" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="205" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y-uePSDsWuMKe1jSldw-6" value="c043e4e4-190e-477d-bd86-3d4a5451ff3c" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="285" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9y-uePSDsWuMKe1jSldw-7" value="e4dfda95-c863-4791-b882-15d04374b19f" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="290" y="365" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
