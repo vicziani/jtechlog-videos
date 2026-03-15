@@ -32,7 +32,7 @@ Deklarálok két metódust, a hívó neve legyen `processOrder()`, a hívott nev
 Az előbbi generál egy véletlen UUID-t, melyre a másodiknak szüksége van.
 
 A metódusokat három szálon hívom párhuzamosan. Ehhez létrehozok egy thread pool-t,
-és három `CompletableFuture` példányt. Ahhoz, hogy a hívások különböző sorrendben történjenek,
+és három `Callable` példányt. Ahhoz, hogy a hívások különböző sorrendben történjenek,
 teszek bele egy véletlen várakozást.
 
 A 19-es Java-tól az `ExecutorService` implementálja az `AutoCloseable` interfészt.
