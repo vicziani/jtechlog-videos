@@ -43,19 +43,6 @@ A `saveOrder()` pedig kiveszi.
 Lefuttatva ugyanahhoz az szálhoz ugyanaz a request id kapcsolódik.
 
 ```java
-package imperative;
-
-import lombok.SneakyThrows;
-import lombok.extern.slf4j.Slf4j;
-
-import java.util.List;
-import java.util.Random;
-import java.util.UUID;
-import java.util.concurrent.CompletableFuture;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.stream.IntStream;
-
 @Slf4j
 public class ThreadLocalApplication {
 
